@@ -63,7 +63,31 @@ print(a[2:])  #llo
 #reverse string
 print(a[::-1])  #olleh
 
-'''
 
 
 #type conversion
+
+#explicit type conversion:
+a= "123"
+print(type(a))  #string
+b = int(a)
+print(type(b))  #int
+
+c= 123
+d= float(c)
+print(d)  #123.0
+print(type(d))  #float	
+
+
+'''
+
+#truthy and falsy values :
+#falsy values: 0, 0.0, "", None, [], {}, ()
+#truthy values: all other values
+
+#implicit type conversion:
+a=5
+b=2.4
+c=a+b
+print(c)
+print(type(c))  #float
