@@ -9,12 +9,14 @@ and this project follows [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 ### Added
-- Upcoming Python topics and improvements.
+- (Nothing yet)
 
 ---
 
 ## [0.1.0] - 2026-01-22
 ### Added
-- Basic Python variables examples.
-- Python data types introduction.
-- Initial project structure.
+- Python variables basics.
+- Python data types (numbers, boolean, strings).
+- String indexing and slicing.
+- Type conversion (implicit and explicit).
+- Initial repository setup with proper Git workflow.
