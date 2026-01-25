@@ -9,7 +9,7 @@ and this project follows [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 ### Added
-- (Nothing yet)
+- Input and output basics using print() and input().
 
 ---
 
